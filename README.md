@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, C++, SQL
+- **Languages:** JavaScript, Java, C, C++, SQL
 - **Backend:** Node.js, Express.js
 - **Databases:** PostgreSQL, SQLite, MySQL
 - **Tools:** Git, GitHub, Postman, VS Code
