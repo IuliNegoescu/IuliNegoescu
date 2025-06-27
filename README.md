@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, Java, C, C++, SQL
-- **Backend:** Node.js, Express.js, Angular
+- **Backend:** Node.js, Express.js, SAPUI5
 - **Databases:** PostgreSQL, SQLite, MySQL
 - **Tools:** Git, GitHub, Postman, VS Code
 - **Concepts:** REST APIs, OOP, CRUD, File I/O, Dynamic Memory
