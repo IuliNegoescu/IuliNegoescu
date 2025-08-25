@@ -18,6 +18,9 @@
 
 ## 🚀 Featured Projects
 
+### 🏪 [Store App (SAPUI5)](https://github.com/IuliNegoescu/Store_App)  
+Frontend application built with **SAPUI5**, featuring product listing, filtering, and responsive design for a construction materials store.
+
 ### 📦 [Inventory Management API](https://github.com/IuliNegoescu/inventory-management-api)  
 Node.js + PostgreSQL REST API for managing products and orders.
 
