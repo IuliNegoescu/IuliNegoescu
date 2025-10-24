@@ -1,51 +1,51 @@
-# 👋 Hi, I’m Iulian-Andrei Negoescu
+👋 Hi, I’m Iulian-Andrei Negoescu
 
-🎓 **Computer Science student** at University POLITEHNICA of Bucharest  
-💻 **Junior Backend Developer** focused on Node.js, Express, PostgreSQL, and Object-Oriented Programming in C++  
-📦 Building real-world applications that include REST APIs, SQL business logic, and full-stack integrations  
+🎓 Computer Science student at University POLITEHNICA of Bucharest
+💻 Full-Stack Developer (SAP UI5 + Node.js + SQL) with a strong focus on enterprise-grade web applications
+🚀 Passionate about building real-world business systems that integrate SAP UI5 frontends with Node.js & CAP backends
 
----
+🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-- **Languages:** JavaScript, Java, C, C++, SQL
-- **Backend:** Node.js, Express.js
-- **Frontend:** SAPUI5
-- **Databases:** PostgreSQL, SQLite, MySQL
-- **Tools:** Git, GitHub, Postman, VS Code
-- **Concepts:** REST APIs, OOP, CRUD, File I/O, Dynamic Memory
+Languages: JavaScript, C++, SQL, Java, C
 
----
+Frontend: SAP UI5, HTML, CSS, XML, JSON
 
-## 🚀 Featured Projects
+Backend: Node.js, Express.js, SAP CAP (Cloud Application Programming Model)
 
-### 🏪 [Store App (SAPUI5)](https://github.com/IuliNegoescu/Store_App)  
-Frontend application built with **SAPUI5**, featuring product listing, filtering, and responsive design for a construction materials store.
+Databases: PostgreSQL, MySQL, SQLite
 
-### 📦 [Inventory Management API](https://github.com/IuliNegoescu/inventory-management-api)  
-Node.js + PostgreSQL REST API for managing products and orders.
+Tools: Git, GitHub, Postman, VS Code, Fiori tools
 
-### 🧾 [SQL Product System](https://github.com/IuliNegoescu/SQL_Project2)  
-Relational database system for managing inventory and suppliers using SQLite.
+Concepts: REST APIs, OData V4, CRUD Operations, MVC Pattern, CAP Services, Object-Oriented Programming
 
-### 🚚 [Truck Delivery Tracker](https://github.com/IuliNegoescu/Project1_SQL)  
-SQL project to track truck routes, deliveries, fuel, and profit.
+🚀 Featured Projects
+🅿️ ParkingSlots Freestyle App (SAP UI5 + CAP)
 
-### 🌤️ [Weather App](https://github.com/IuliNegoescu/weather-app)  
-Frontend weather app using OpenWeatherMap API and async JavaScript.
+Full-stack SAP UI5 application with a Node.js + CAP backend and OData V4 service.
+Includes CRUD operations for parking slots, owners, and payments. Features a modern freestyle layout, responsive pages, and smart routing.
 
-### 👤 [GitHub Profile Finder](https://github.com/IuliNegoescu/GitHub_User_Finder)  
-Web app to search GitHub users via API and display profile info.
+💰 Invoice Manager (SAP UI5 + Node.js)
 
-### 🧠 [Rocket Mining Simulation (C++)](https://github.com/IuliNegoescu/POO-Homework2)  
-OOP-based simulation game using C++, file I/O, and custom logic.
+Freestyle SAP UI5 app for managing invoices and clients.
+Implements dynamic data models, table filtering, and interaction with REST APIs using Node.js backend logic.
 
----
+🏗️ NEG Construction Materials Store (SAP UI5)
 
-## 📫 Let’s Connect
+E-commerce style UI5 application for managing construction materials — responsive UI, product filtering, and JSON-based data model integration.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/iulian-andrei-negoescu-44a01b369/)
-- 📧 iulian.negoescu01@gmail.com
+📦 Inventory Management API (Node.js + PostgreSQL)
 
----
+Backend REST API built with Express and PostgreSQL.
+Implements relational data models for products, orders, and suppliers with full CRUD endpoints.
 
-Thanks for visiting my GitHub profile! 🚀
+🚚 Truck Delivery Tracker (SQL)
+
+SQL system for managing logistics data — tracks deliveries, truck routes, fuel usage, and generated profit.
+
+🌤️ Weather App (JavaScript)
+
+Frontend weather app using OpenWeatherMap API, built with async JavaScript and responsive design.
+
+📧 iulian.negoescu01@gmail.com
+
+⭐ Always learning, building, and improving — one project at a time.
