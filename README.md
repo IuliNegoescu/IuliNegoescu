@@ -19,6 +19,7 @@ Tools: Git, GitHub, Postman, VS Code, Fiori tools
 Concepts: REST APIs, OData V4, CRUD Operations, MVC Pattern, CAP Services, Object-Oriented Programming
 
 🚀 Featured Projects
+
 🅿️ ParkingSlots Freestyle App (SAP UI5 + CAP)
 
 Full-stack SAP UI5 application with a Node.js + CAP backend and OData V4 service.
